@@ -10,15 +10,18 @@ pip3 install -r requirements.txt
 
 to install the dependendies of the voxel renderer.
 
-Please fill in your code in `main.py` and include your result in this README.md file.
+## Results
+![](./view1.jpg)
+![](./view2.jpg)
+![](./view3.jpg)
+![](./view4.jpg)
+![](./view5.jpg)
+![](./view6.jpg)
 
-## Demo
-![](./demo.jpg)
-
-## Quickstart
+## Explore the scene
 
 ```sh
-python3 example1.py  # example2/3/4.py
+python3 main.py
 ```
 
 Mouse and keyboard interface:
