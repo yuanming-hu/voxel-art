@@ -1,5 +1,7 @@
 # Taichi Voxel Challenge
 
+Submission by Yuanming ([@yuanming-hu](https://github.com/yuanming-hu))
+
 ![](./view1.jpg)
 
 ## Installation
